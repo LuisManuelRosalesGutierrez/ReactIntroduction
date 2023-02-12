@@ -1,7 +1,10 @@
-import React from 'react'
-
+import './Elements.css'
 export const Elements = () => {
   return (
-    <div>Elements</div>
+    <>
+      <section class="elements">
+        <div>Elements</div>
+      </section>
+    </>
   )
 }

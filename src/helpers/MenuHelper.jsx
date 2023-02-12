@@ -7,9 +7,6 @@ export const MenuHelper = () => {
         navigate('/menu-principal', { replace: true })
     }
 
-    return (
-        <>
-            <button type="button" class="menu" onClick={ toMenu }>Go Menu</button>
-        </>
-    )
+    return <button type="button" class="menu" onClick={ toMenu }>Go Menu</button>;
+    
 }

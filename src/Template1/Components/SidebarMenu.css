@@ -1,0 +1,11 @@
+.sidebar{
+    background-color: #2e2b47;
+    color:white;
+    width:20%;
+    height:100vh;
+    float:left;
+}
+
+td{
+border-color: white;
+}
